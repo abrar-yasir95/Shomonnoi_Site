@@ -99,24 +99,7 @@ The above copyright notice and this permission notice shall be included in all c
                     </div>
                 </li>
 
-               <!--  <li class="dropdown nav-item">
-                    <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
-                        <i class="material-icons">widgets</i> Physical Contents
-                    </a>
-                    <div class="dropdown-menu dropdown-with-icons">
-                        <a href="/organizations" class="dropdown-item" target="_blank">
-                            <i class="fas fa-angle-double-right"></i> &nbsp; &nbsp;All Organizations
-                        </a>
-                        @forelse($divisions as $division)
-                        <a href="/organizations/{{$division->name}}" class="dropdown-item" target="_blank">
-                            <i class="fas fa-map-marker-alt"></i> &nbsp; &nbsp;{{$division->name}}
-                        </a>
-                        @empty
-                        @endforelse
-
-                    </div>
-                </li>
- -->
+               
                 
                 <li class="dropdown nav-item">
                     <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
@@ -155,22 +138,31 @@ The above copyright notice and this permission notice shall be included in all c
 
                 <li class="dropdown nav-item">
                     <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
-                        <i class="material-icons">timeline</i> Contents
+                        <i class="material-icons">list</i>  Contents
                     </a>
                     <div class="dropdown-menu dropdown-with-icons">
-                        <a class="dropdown-item" href="/emergency" target="_blank">
-                            <i class="fas fa-angle-double-right"></i> &nbsp; &nbsp;Play
+                       
+                        <a class="dropdown-item" href="#" target="_blank">
+                            <i class="fas fa-user-nurse"></i> &nbsp; &nbsp;Shomonnoi Gaming
                         </a>
-                        <a class="dropdown-item" href="/emergencies/medicine" target="_blank">
-                            <i class="fas fa-briefcase-medical"></i> &nbsp; &nbsp;Nersury
-                        </a>
-                        <a class="dropdown-item" href="/emergencies/ppe" target="_blank">
-                            <i class="fas fa-user-nurse"></i> &nbsp; &nbsp;KG
-                        </a>
-                        <a class="dropdown-item" href="/emergencies/ppe" target="_blank">
-                            <i class="fas fa-user-nurse"></i> &nbsp; &nbsp;KG
-                        </a>
+                    
+                    
+                        <a href="#" data-toggle="dropdown" class="dropdown-toggle dropdown-item w-100">Physical</a>
+                        <ul class="dropdown-menu mr-2 rounded-0  white border-0 z-depth-1 r-100">
+                          <li class="dropdown-item p-0">
+                            <a href="#" class="dropdown-item w-100">Play</a>
+                          </li>
+                          <li class="dropdown-item p-0">
+                            <a href="#" class="dropdown-item w-100">KG</a>
+                          </li>
+                          
+                          <li class="dropdown-item p-0">
+                            <a href="#" class="dropdown-item w-100">Nursery</a>
+                    
                     </div>
+
+
+
                 </li>
 
                 <li class="dropdown nav-item">
