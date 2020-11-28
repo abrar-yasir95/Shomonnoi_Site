@@ -1,0 +1,6 @@
+[/home2/shomonno/public_html]
+htaccess_list = 
+
+[/home/shomonno/public_html]
+htaccess_list = /home/shomonno/public_html/.htaccess,/home/shomonno/public_html/seotools/vendor/scrivo/highlight.php/tools/.htaccess,/home/shomonno/public_html/seotools/vendor/scrivo/highlight.php/demo/.htaccess,/home/shomonno/public_html/seotools/public/.htaccess,/home/shomonno/public_html/vendor/scrivo/highlight.php/tools/.htaccess,/home/shomonno/public_html/vendor/scrivo/highlight.php/demo/.htaccess
+

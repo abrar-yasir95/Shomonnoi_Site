@@ -1,0 +1,545 @@
+Return-Path: <atozbaza@protector.prosofting.net>
+Delivered-To: shomonno+spam@server.hostingbangladesh.com
+Received: from server.hostingbangladesh.com
+	by server.hostingbangladesh.com with LMTP
+	id cG8ZKmCzmF8vRCYAroqP2A
+	(envelope-from <atozbaza@protector.prosofting.net>)
+	for <shomonno+spam@server.hostingbangladesh.com>; Wed, 28 Oct 2020 05:55:12 +0600
+Return-path: <atozbaza@protector.prosofting.net>
+Envelope-to: info@shomonnoibd.com
+Delivery-date: Wed, 28 Oct 2020 05:55:12 +0600
+Received: from static.125.160.76.144.clients.your-server.de ([144.76.160.125]:53592)
+	by server.hostingbangladesh.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <atozbaza@protector.prosofting.net>)
+	id 1kXYo1-00AXC4-S8
+	for info@shomonnoibd.com; Wed, 28 Oct 2020 05:55:12 +0600
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=protector.prosofting.net; s=default; h=Date:Message-Id:Content-type:
+	MIME-Version:From:Subject:To:Sender:Reply-To:Cc:Content-Transfer-Encoding:
+	Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	 bh=n0GILs4bXuemAj8dKAMrLWB8I2hq51UX/bNZvHeGvsA=; b=OnFp8BQZ+ZNy+lN/x/biGbSu5
+	tXAHkyC44vyXVr4to5EcoS7SyAWPnSwAm+/3ApZVt4B3xasSDEECC+dUutRH8+n7ZgIznelDMLKBX
+	kqyu79Ss1FLBq9O5vfcEnUJJlT/nsWzG8uigwzKVHID28/dZWdKNlubNxj2djToN0g3kHO6rtlq17
+	Ccdu7Uc0dHXdSiGeGqNhfAUCkGBC+17Z7be+QJYP/rIPUPP5Cq4bJVX1Jf/ASl4zfIU/Ofo/6DiQz
+	MJXWqCYTDearekyMoY91JD3IZb4pasINJ6GhTveLfC9MvjvYx4ECRhRQTaqlQbSkZUgvAsSKJ+rzx
+	7TGUZcUWg==;
+Received: from atozbaza by protector.prosofting.net with local (Exim 4.93)
+	(envelope-from <atozbaza@protector.prosofting.net>)
+	id 1kVDTg-00Ddvw-S1
+	for info@shomonnoibd.com; Wed, 21 Oct 2020 15:44:29 +0300
+To: info@shomonnoibd.com
+X-PHP-Script: atoz-bazaar.com/asba.php for 40.76.87.250
+X-PHP-Originating-Script: 1101:asba.php
+From: =?UTF-8?B?UGF5UGFs?= <support5873@atoz-bazaar.com>
+MIME-Version: 1.0;
+Content-type: multipart/mixed; boundary="--sTsniySRA3"
+Message-Id: <E1kVDTg-00Ddvw-S1@protector.prosofting.net>
+Date: Wed, 21 Oct 2020 15:44:28 +0300
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - protector.prosofting.net
+X-AntiAbuse: Original Domain - shomonnoibd.com
+X-AntiAbuse: Originator/Caller UID/GID - [1101 994] / [47 12]
+X-AntiAbuse: Sender Address Domain - protector.prosofting.net
+X-Get-Message-Sender-Via: protector.prosofting.net: authenticated_id: atozbaza/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: protector.prosofting.net: atozbaza
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Spam-Status: Yes, score=7.9
+X-Spam-Score: 79
+X-Spam-Bar: +++++++
+X-Spam-Report: Spam detection software, running on the system "server.hostingbangladesh.com",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  You're just one step away from a better way to pay. Add your
+    credit card or debit card to complete your account setup. Add Your Payment
+    Method 180 Days of Peace of Mind PayPal protects you from check [...] 
+ Content analysis details:   (7.9 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.2 CK_HELO_GENERIC        Relay used name indicative of a Dynamic Pool or
+                             Generic rPTR
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: cukurovaelk.com]
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  0.0 T_TVD_MIME_NO_HEADERS  BODY: No description available.
+  0.0 HTML_IMAGE_RATIO_06    BODY: HTML has a low ratio of text to image
+                             area
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  2.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+                             [cf: 100]
+  1.7 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+  0.0 FROM_EXCESS_BASE64     From: base64 encoded unnecessarily
+  0.0 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+  3.2 HELO_DYNAMIC_IPADDR    Relay HELO'd using suspicious hostname (IP
+                             addr 1)
+X-Spam-Flag: YES
+Subject:  ***SPAM***  =?UTF-8?B?QWN0aW9uIFJlcXVpcmVkIC0gSUQ6WzUxMDE1NzE3NTA0MV0=?=
+
+----sTsniySRA3
+Content-type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="background:#f2f2f2;">
+
+  <tbody><tr>
+
+    <td align="center" valign="top"><!-- 700px container table -->
+
+      
+
+      <table class="emailwrapto320" width="600" border="0" cellspacing="0" cellpadding="0" align="center">
+
+        <tbody><tr>
+
+
+
+            <!-- spacer table-->
+
+            
+
+            </tr></tbody></table><table class="emailwrapto320" width="600" border="0" cellspacing="0" cellpadding="0" align="center">
+
+              <tbody><tr>
+
+                <td width="1" bgcolor="#f2f2f2"><!--spacer--></td>
+
+                <td class="emailwrapto318" width="598" align="center" height="10px" style="background-color:#f2f2f2;"><!--spacer--></td>
+
+                <td width="1" bgcolor="#f2f2f2"><!--spacer--></td>
+
+              </tr>
+
+            </tbody></table>
+
+            
+
+         
+
+            <!-- top content table-->
+
+            
+
+            <table width="600" class="emailwrapto320" style="background-color:#243b81; border-collapse:collapse" cellspacing="0" border="0" cellpadding="0">
+
+              <tbody><tr>
+
+                <td width="1" height="60" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+                <td width="598" class="emailwrapto318" align="center" style="background-color:#243b81;">
+
+                    <img src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/logo.gif" target="_blank" height="39" width="157" style="display:block; padding:15px;" border="0" alt="PayPal">
+
+                                        
+
+                  </td>
+
+                
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+              </tr>
+
+            </tbody></table>
+
+            
+
+                   <!--horizontal line--
+
+
+
+<table class="emailwrapto320" width="600" border="0" style="border-collapse:collapse" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff">
+
+
+
+ <tr><td style="line-height:1px; background-color:#c9c9c9;" width="600" class="emailwrapto320"><img  style="display:block;" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/extra/spacer1.gif" border="0" alt="" width="1" height="1"  /></td>
+
+      </tr>
+
+      </table>-->
+
+            
+
+            <!-- headline -->
+
+            
+
+            <table class="emailwrapto320" style="border-collapse:collapse; background-color:#243b81" width="600" border="0" cellspacing="0" cellpadding="0" align="center">
+
+              <tbody><tr>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+                <td width="598" class="emailwrapto318" align="center" valign="top" style="background-color:#243b81">
+
+                <img src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/anim.gif" width="465" height="187" class="emailwrapto318" style="display:block" border="0">
+
+                </td>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+              </tr>
+
+              
+
+              
+
+              <tr>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+                <td width="598" class="emailwrapto318" style="color:#ffffff; font-family:'Helvetica Neue Light', 'HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial, sans-serif; font-size:40px; padding:20px" align="center">
+
+<span class="fontsize28">                	
+
+You're just one step away from a better way to pay.</span>
+
+                </td>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+              </tr>
+
+              
+
+              <tr>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+                <td width="598" class="emailwrapto318" style="background-color:#243b81;color:#ffffff; font-family:'Helvetica Neue Light', 'HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial, sans-serif; font-size:14px; padding:10px 30px 20px" align="center">
+
+            Add your credit card or debit card <span style="emailnomob"><br></span> 
+
+to complete your account setup.
+
+                </td>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+              </tr>
+
+               <tr>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+                <td width="598" class="emailwrapto318" style="background-color:#243b81; font-family:'Helvetica Neue Light', 'HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial, sans-serif; padding: 10px 0 25px" align="center">
+
+                <table cellpadding="0" cellspacing="0" border="0" width="260" style="background-color:#243b81;" align="center">
+
+                <tbody><tr><td width="260" style="background-color:#009cde; color:#ffffff; padding:10px 0; border-radius:5px; font-size:16px" align="center" valign="middle"><a href="https://cukurovaelk.com/assets style=" font-family:'helvetica="" neue="" light',="" helvetica,="" arial,="" sans-serif;color:#ffffff;="" text-decoration:none;="" line-height:19px;"="">Add Your Payment Method</a></td>
+
+                </tr></tbody></table>
+
+                </td>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+              </tr>
+
+              </tbody></table>
+
+
+
+      <!--bottom text-->
+
+      
+
+       <table class="emailwrapto320" width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; background-color:#ffffff">
+
+    
+
+              
+
+              <tbody><tr>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+                <td width="598" class="emailwrapto318" style="background-color:#ffffff; padding:40px 0 10px" align="center">
+
+               <img src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/NoFI_D4_ValueProp/ishield.gif" width="80" height="80" style="display:block" border="0">
+
+                </td>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+              </tr>
+
+            
+
+                        <tr>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+                <td width="598" class="emailwrapto318" style="font-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif; font-size:27px; line-height:34px; color:#4b4a4b; padding:0 10px" align="center">
+
+              180 Days of Peace of Mind
+
+                </td>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+              </tr>
+
+              
+
+                <tr>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+                <td width="598" class="emailwrapto318" style="font-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif; font-size:14px; line-height:23px; color:#4b4a4b; padding:5px 10px" align="center">
+
+              PayPal protects you from checkout to delivery. <span class="emailnomob"><br></span>You are covered if something goes wrong with an <span class="emailnomob"><br></span>
+
+                <a href="https://cukurovaelk.com/assets" style="color:#009cde; text-decoration:underline;">eligible purchase or payment,</a> for up to 180 days.
+
+                </td>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+              </tr>
+
+              
+
+                <tr>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+                <td width="598" class="emailwrapto318" style="background-color:#ffffff; padding:40px 0 10px" align="center">
+
+               <img src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/icon_lock.gif" width="80" height="80" style="display:block" border="0">
+
+                </td>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+              </tr>
+
+            
+
+                        <tr>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+                <td width="598" class="emailwrapto318" style="font-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif; font-size:27px; line-height:34px; color:#4b4a4b; padding:0 10px" align="center">
+
+              Security</td>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+              </tr>
+
+              
+
+                <tr>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+                <td width="598" class="emailwrapto318" style="font-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif; font-size:14px; line-height:23px; color:#4b4a4b; padding:10px" align="center">
+
+             We monitor every transaction, 24/7 to help prevent fraudulent <span class="emailnomob"><br></span>
+
+transactions, and email phishing. Every transaction is heavily <span class="emailnomob"><br></span>
+
+guarded behind our advanced encryption.
+
+                </td>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+              </tr>
+
+              
+
+                <tr>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+                <td width="598" class="emailwrapto318" style="background-color:#ffffff; padding:40px 0 10px" align="center">
+
+               <img src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/icon_tag.gif" width="80" height="80" style="display:block" border="0">
+
+                </td>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+              </tr>
+
+            
+
+                        <tr>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+                <td width="598" class="emailwrapto318" style="font-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif; font-size:27px; line-height:34px; color:#4b4a4b; padding:0 10px" align="center">
+
+              Great Deals
+
+                </td>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+              </tr>
+
+              
+
+                <tr>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+                <td width="598" class="emailwrapto318" style="font-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif; font-size:14px; line-height:23px; color:#4b4a4b; padding:10px 10px 40px" align="center">
+
+              Save at your favorite stores when you checkout with PayPal.
+
+                </td>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+              </tr>
+
+              
+
+              
+
+                
+
+                
+
+            
+
+              </tbody></table>
+
+              
+
+              
+
+                   <table class="emailwrapto320" width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; background-color:#272727">
+
+    
+
+              
+
+              <tbody><tr>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+                <td width="598" class="emailwrapto318" style="font-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif; font-size:27px; line-height:34px; color:#ffffff; background-color:#272727; padding:30px 10px 10px" align="center">
+
+                You're almost ready to shop with PayPal.
+
+                </td>
+
+                 <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+                 </tr>
+
+                 
+
+                 <tr>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+                <td width="598" class="emailwrapto318" style="font-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif; font-size:14px; line-height:21px; color:#ffffff; background-color:#272727; padding:10px" align="center">
+
+                Log on to your PayPal account from your desktop, or use the PayPal <span class="emailnomob"><br></span>
+
+App to add your credit card or debit card today.
+
+                </td>
+
+                 <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+                 </tr>
+
+                  <tr>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+                <td width="598" class="emailwrapto318" style="background-color:#272727; font-family:'Helvetica Neue Light', 'HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial, sans-serif; padding: 10px 0  25px" align="center">
+
+                <table cellpadding="0" cellspacing="0" border="0" width="260" style="background-color:#272727;" align="center">
+
+                <tbody><tr><td width="260" style="background-color:#009cde; color:#ffffff; padding:10px 0; border-radius:5px; font-size:16px" align="center" valign="middle"><a href="www.google.com" style="font-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif; color:#ffffff; text-decoration:none; line-height:19px;">Add Your Payment Method</a></td>
+
+                </tr></tbody></table>
+
+                </td>
+
+                <td width="1" bgcolor="#e3e3e3"><img style="display:block" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+              </tr>
+
+                 </tbody></table>
+
+                      
+
+          <!--horizontal line-->
+
+
+
+<table class="emailwrapto320" width="600" border="0" style="border-collapse:collapse" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff">
+
+
+
+ <tbody><tr><td style="line-height:1px; background-color:#c9c9c9;" width="600" class="emailwrapto320"><img style="display:block;" src="https://pp.images.harmony.epsilon.com/NorthAmerica/USA/Triggers/extra/spacer1.gif" border="0" alt="" width="1" height="1"></td>
+
+      </tr>
+
+      </tbody></table>
+
+      
+
+     
+
+      
+
+            
+
+        </td></tr>
+
+      </tbody></table>
+
+      
+
+      <!-- 700px container table end -->
+
+      
+
+       <!--fix gmail text resize-->
+
+<div style="display:none; white-space:nowrap; font:15px courier; color:#ffffff;">
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+</div>
+
+      
+
+      <!-- 100% table ends below-->
+
+  
+
+
+
+<img src="https://adfarm.mediaplex.com/ad/tr/29589-219905-54488-0?CampaignID=13990&amp;OfferId=304736&amp;EmailCategory=PNP&amp;TreatmentCode=003113142" border="0">
+
+
+<img src="https://epl.paypal-communication.com/O/v20000015c5f7cf990948572f4bbe5be68/ada66bd1327c4b5700004c5a42963aa1" style="display:none; max-height: 0px; font-size: 0px; overflow: hidden; mso-hide: all">
+
+
+
+----sTsniySRA3
+

@@ -1,0 +1,16 @@
+Jul 04 21:03:19.679003 check[904651]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/shomonno/.razor/razor-agent.log
+Jul 04 21:03:21.752182 check[904651]: [ 3] mail 1 is not known spam.
+Jul 18 08:32:19.481943 check[2707472]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/shomonno/.razor/razor-agent.log
+Jul 18 08:32:21.592580 check[2707472]: [ 3] mail 1 is not known spam.
+Oct 14 01:55:41.938059 check[2813300]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/shomonno/.razor/razor-agent.log
+Oct 14 01:55:43.892277 check[2813300]: [ 3] mail 1 is known spam.
+Oct 14 03:32:36.344045 check[2137739]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/shomonno/.razor/razor-agent.log
+Oct 14 03:32:38.691338 check[2137739]: [ 3] mail 1 is not known spam.
+Oct 14 03:48:12.923267 check[2954926]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/shomonno/.razor/razor-agent.log
+Oct 14 03:48:14.408847 check[2954926]: [ 3] mail 1 is not known spam.
+Oct 16 22:11:34.035352 check[638876]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/shomonno/.razor/razor-agent.log
+Oct 16 22:11:36.130148 check[638876]: [ 3] mail 1 is not known spam.
+Oct 19 02:09:05.637420 check[656222]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/shomonno/.razor/razor-agent.log
+Oct 19 02:09:07.659723 check[656222]: [ 3] mail 1 is not known spam.
+Oct 28 05:55:10.638364 check[1942568]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/shomonno/.razor/razor-agent.log
+Oct 28 05:55:12.661553 check[1942568]: [ 3] mail 1 is known spam.

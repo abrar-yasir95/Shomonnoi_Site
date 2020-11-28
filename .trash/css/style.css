@@ -1,0 +1,97 @@
+.paragraph {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+@media (min-width: 576px) {
+    .paragraph {
+        font-size: 14px;
+    }
+}
+@media (max-width: 375px) {
+    .paragraph {
+        font-size: 14px;
+    }
+}
+@media (max-width: 350px) {
+    .paragraph {
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 768px) {
+    .paragraph {
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 992px) {
+    .paragraph {
+        font-size: 18px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+    .paragraph{
+        font-size: 25px;
+    }
+}
+
+.make_donation_area {
+    background: #F3FCF8;
+    padding-top: 10px;
+}
+
+
+.card_custom_width_height {
+    width: 20rem;
+    height: 35rem;
+}
+
+
+@media (max-width: 350px) {
+    .card_custom_width_height {
+        width: 17rem;
+        height: 35rem;
+    }
+
+}
+
+@media (min-width: 360px) {
+    .card_custom_width_height {
+        width: 19rem;
+        height: 35rem;
+    }
+
+}
+
+@media (min-width: 375px) {
+    .card_custom_width_height {
+        width: 20.5rem;
+        height: 35rem;
+    }
+
+}
+
+@media (min-width: 410px) {
+    .card_custom_width_height {
+        width: 23rem;
+        height: 35rem;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .card_custom_width_height {
+        width: 17rem;
+        height: 34rem;
+    }
+}
+
+@media (min-width: 1200px) {
+
+    .card_custom_width_height {
+        width: 20rem;
+        height: 35rem;
+    }
+
+}

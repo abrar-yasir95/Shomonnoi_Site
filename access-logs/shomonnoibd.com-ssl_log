@@ -1,0 +1,8 @@
+95.217.203.187 - - [24/Nov/2020:18:19:54 +0600] "GET /robots.txt HTTP/1.1" 200 24 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+95.217.203.187 - - [24/Nov/2020:18:19:55 +0600] "GET /robots.txt HTTP/1.1" 200 24 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+95.217.203.187 - - [24/Nov/2020:18:20:02 +0600] "GET /img/landing_map_filtered.jpg HTTP/1.1" 200 147302 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+95.217.203.187 - - [24/Nov/2020:18:50:07 +0600] "GET /robots.txt HTTP/1.1" 200 24 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+95.217.203.187 - - [24/Nov/2020:18:50:08 +0600] "GET /robots.txt HTTP/1.1" 200 24 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+95.217.203.187 - - [24/Nov/2020:18:50:19 +0600] "GET /img/relief/ghashforing/g1.png HTTP/1.1" 200 753268 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+95.217.203.187 - - [24/Nov/2020:21:31:14 +0600] "GET /organizations/Rangpur HTTP/1.1" 200 5181 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+95.217.203.187 - - [24/Nov/2020:22:32:05 +0600] "GET /img/blog/blog_89.jpg HTTP/1.1" 200 38322 "http://shomonnoibd.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"

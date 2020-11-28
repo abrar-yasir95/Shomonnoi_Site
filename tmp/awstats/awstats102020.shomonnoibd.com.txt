@@ -1,0 +1,766 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202010 will be lost/reset.
+# Last config file used to build this data file was /home/shomonno/tmp/awstats/awstats.shomonnoibd.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2690                
+POS_VISITOR 17469               
+POS_DAY 17751               
+POS_DOMAIN 3571                
+POS_LOGIN 3831                
+POS_ROBOT 3986                
+POS_WORMS 4685                
+POS_EMAILSENDER 4816                
+POS_EMAILRECEIVER 4959                
+POS_SESSION 18399               
+POS_SIDER 18606               
+POS_FILETYPES 5094                
+POS_DOWNLOADS 5375                
+POS_OS 5589                
+POS_BROWSER 5836                
+POS_SCREENSIZE 11127               
+POS_UNKNOWNREFERER 11201               
+POS_UNKNOWNREFERERBROWSER 11506               
+POS_ORIGIN 11806               
+POS_SEREFERRALS 11945               
+POS_PAGEREFS 12139               
+POS_SEARCHWORDS 12500               
+POS_KEYWORDS 12652               
+POS_MISC 2353                
+POS_ERRORS 12711               
+POS_CLUSTER 3687                
+POS_SIDER_404 12829               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201101015431 11 1821 9365836610326
+FirstTime 20201001032938
+LastTime 20201030020949
+LastUpdate 20201101183448 11 0 10 0 0
+TotalVisits 69                  
+TotalUnique 2                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 7                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 44 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 31 167 336865345 47 97 87537853
+1 18 52 938975 39 60 11730347
+2 8 43 78798282 44 88 8278181
+3 26 45 26761999 36 70 9273904
+4 17 98 157730117 31 101 6650230
+5 2 37 78664730 33 59 3358375
+6 24 25 742963 35 49 2006464
+7 1 1 7636 26 57 1525408
+8 3 3 34456 27 41 1557987
+9 42 54 9388758 41 56 2631003
+10 17 53 78931402 47 88 5609075
+11 92 134 82098663 84 143 102582260
+12 10 73 96085279 62 134 87771605
+13 16 16 263771 36 78 9878884
+14 16 95 123500342 35 59 10883132
+15 50 70 3221409 50 75 4140272
+16 16 16 446328 47 82 13157934
+17 3 31 45436735 28 76 5923725
+18 32 61 25566065 45 75 18925612
+19 40 40 942770 50 92 12970832
+20 23 73 49176406 46 77 10732606
+21 34 76 5597869 43 90 12559010
+22 51 86 80121869 108 164 15152992
+23 57 94 45718467 41 80 21138475
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+ua 628 1437 1325083511
+us 1 3 1956780
+gb 0 3 249
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+AhrefsBot/ 370 2710391 20201031204900 48
+Googlebot/ 344 2773927 20201031190257 38
+archive\.org_bot 329 185169518 20201003150018 6
+bingbot/ 294 19293424 20201031211907 58
+facebookexternalhit/ 166 197130054 20201031234849 0
+YandexBot/ 47 175387 20201031235457 24
+bingpreview 39 2362936 20201024130826 0
+CCBot/ 34 243976 20201024130025 2
+Googlebot\-Image/ 17 4586329 20201030030901 0
+YandexImages/ 4 211533 20201029173307 0
+no_user_agent 3 135591 20201027021941 0
+unknown 2 48 20201019231117 2
+SemrushBot/ 1 14697 20201002091112 0
+Python\-urllib/ 1 24 20201001032941 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+png 291 1279463498 0 0
+jpeg 7 6118175 0 0
+js 279 3158920 0 0
+css 151 1666963 0 0
+woff2 25 1970110 0 0
+woff 1 103323 0 0
+xsd 1 2383 0 0
+jpg 69 20453793 0 0
+txt 17 1314 0 0
+Unknown 508 12303068 0 0
+html 94 1798993 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/.well-known/pki-validation/89085A995066083F95277E036B529E17.txt 16 0 1250
+/.well-known/pki-validation/D878B4A850E4652871F2B663FFAF0164.txt 1 0 64
+/robots.txt 0 2 48
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+macosx 2 2
+linux 101 12
+ios_iphone 68 9
+win8.1 26 15
+linuxandroid 216 19
+macosx10 1 1
+macosx6 1 1
+win7 38 9
+winxp 7 5
+win10 961 551
+macosx5 1 1
+winlong 1 1
+macosx8 1 1
+Unknown 21 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 236
+chrome74.0.3689.0 2 2
+chrome70.0.3513.0 2 2
+chrome72.0.3626.58 2 2
+chrome73.0.3683.51 2 2
+chrome70.0.3534.3 2 2
+chrome70.0.3532.0 2 2
+chrome71.0.3578.90 2 2
+chrome74.0.3711.2 4 4
+chrome75.0.3745.2 2 2
+chrome71.0.3578.71 4 4
+chrome71.0.3578.2 2 2
+chrome68.0.3440.131 2 2
+chrome71.0.3546.0 2 2
+chrome71.0.3575.2 2 2
+chrome72.0.3626.94 2 2
+chrome70.0.3538.96 2 2
+chrome70.0.3528.0 4 4
+chrome60.0.3112.90 20 3
+chrome85.0.4183.121 153 14
+firefox79.0 2 2
+chrome69.0.3497.38 2 2
+chrome74.0.3726.1 2 2
+chrome72.0.3626.84 2 2
+chrome85.0.4183.83 76 5
+chrome72.0.3626.43 2 2
+chrome73.0.3639.1 2 2
+chrome71.0.3564.0 2 2
+chrome74.0.3720.1 2 2
+chrome70.0.3538.76 2 2
+chrome73.0.3683.31 2 2
+chrome72.0.3620.1 4 4
+chrome78.0.3904.70 37 2
+chrome75.0.3770.6 4 4
+chrome71.0.3578.117 2 2
+chrome69.0.3497.84 2 2
+chrome69.0.3497.99 2 2
+chrome71.0.3544.1 2 2
+chrome73.0.3635.1 2 2
+chrome73.0.3631.2 2 2
+chrome69.0.3497.56 2 2
+chrome83.0.4103.7 1 1
+chrome74.0.3729.64 2 2
+firefox59.0 1 1
+chrome72.0.3616.0 2 2
+chrome72.0.3622.3 2 2
+chrome74.0.3718.4 2 2
+chrome69.0.3497.118 2 2
+chrome71.0.3578.10 2 2
+chrome73.0.3649.1 2 2
+chrome74.0.3729.77 4 4
+chrome70.0.3523.1 2 2
+chrome75.0.3770.0 2 2
+chrome70.0.3535.5 2 2
+chrome72.0.3626.67 2 2
+firefox11.0 2 0
+chrome75.0.3759.2 2 2
+chrome71.0.3578.141 53 4
+chrome72.0.3595.2 2 2
+chrome74.0.3729.32 4 4
+chrome69.0.3497.58 2 2
+chrome70.0.3538.44 2 2
+chrome75.0.3770.11 2 2
+chrome70.0.3538.7 2 2
+chrome83.0.4103.61 12 1
+chrome72.0.3609.1 2 2
+chrome70.0.3529.2 2 2
+chrome74.0.3729.10 2 2
+chrome76.0.3809.71 111 6
+chrome74.0.3729.92 2 2
+chrome36.0.1985.143 1 1
+chrome72.0.3626.59 2 2
+chrome71.0.3576.1 2 2
+chrome71.0.3578.55 2 2
+firefox25.0 1 1
+chrome75.0.3770.2 2 2
+chrome72.0.3626.60 2 2
+chrome76.0.3779.0 2 2
+chrome70.0.3505.7 4 4
+safari5.0 1 1
+chrome84.0.4147.105 1 1
+chrome73.0.3683.24 2 2
+chrome72.0.3602.2 2 2
+chrome74.0.3699.1 2 2
+chrome74.0.3729.57 2 2
+chrome80.0.3987.132 2 2
+chrome72.0.3624.2 2 2
+chrome75.0.3746.1 2 2
+chrome71.0.3573.1 2 2
+chrome74.0.3704.4 4 4
+chrome69.0.3497.78 2 2
+chrome69.0.3497.34 2 2
+chrome73.0.3683.42 2 2
+safari10.0 1 1
+chrome74.0.3693.0 2 2
+chrome74.0.3718.3 2 2
+chrome74.0.3729.117 2 2
+chrome73.0.3647.0 2 2
+chrome73.0.3673.1 2 2
+chrome74.0.3722.1 2 2
+chrome70.0.3538.25 2 2
+chrome69.0.3497.65 2 2
+chrome73.0.3683.37 2 2
+chrome85.0.4183.102 23 5
+chrome72.0.3604.1 2 2
+chrome70.0.3516.2 2 2
+chrome70.0.3538.100 2 2
+chrome69.0.3497.113 2 2
+chrome75.0.3746.4 2 2
+chrome86.0.4240.75 29 6
+chrome70.0.3538.67 2 2
+chrome72.0.3626.114 2 2
+chrome71.0.3578.26 2 2
+chrome75.0.3740.1 2 2
+chrome15.0.860.0 1 1
+chrome70.0.3536.0 2 2
+chrome74.0.3711.0 2 2
+chrome71.0.3570.1 2 2
+chrome75.0.3770.10 2 2
+chrome73.0.3637.0 2 2
+chrome72.0.3599.0 2 2
+chrome75.0.3761.2 2 2
+chrome71.0.3543.2 2 2
+chrome72.0.3591.3 2 2
+chrome70.0.3538.19 2 2
+chrome79.0 1 1
+chrome70.0.3534.4 2 2
+chrome74.0.3729.11 2 2
+chrome71.0.3578.97 2 2
+firefox52.9 25 14
+chrome70.0.3534.2 2 2
+chrome71.0.3578.113 2 2
+chrome74.0.3719.0 2 2
+chrome73.0.3683.67 2 2
+chrome75.0.3745.3 2 2
+chrome86.0.4240.111 79 6
+chrome71.0.3565.1 2 2
+chrome68.0.3440.103 2 2
+chrome70.0.3532.4 2 2
+chrome74.0.3685.1 2 2
+chrome74.0.3729.20 2 2
+chrome86.0.4240.99 83 8
+chrome69.0.3497.52 2 2
+chrome73.0.3683.73 2 2
+chrome72.0.3583.1 2 2
+chrome71.0.3578.96 2 2
+chrome69.0.3497.30 2 2
+chrome72.0.3610.4 2 2
+chrome71.0.3539.0 2 2
+chrome60.0.3112.113 1 1
+chrome71.0.3578.59 2 2
+chrome80.0.3987.149 1 1
+chrome72.0.3626.31 4 4
+chrome72.0.3626.105 2 2
+chrome71.0.3564.1 2 2
+chrome75.0.3745.5 2 2
+chrome26.0.1410.65 1 1
+chrome72.0.3592.0 2 2
+chrome74.0.3729.106 2 2
+chrome69.0.3497.119 2 2
+firefox82.0 38 2
+chrome73.0.3683.43 2 2
+chrome73.0.3683.121 2 2
+chrome72.0.3614.0 2 2
+chrome69.0.3497.55 2 2
+chrome69.0.3497.77 4 4
+chrome73.0.3683.21 2 2
+chrome71.0.3571.0 2 2
+chrome73.0.3683.89 2 2
+Unknown 21 2
+chrome71.0.3578.61 4 4
+firefox61.0 2 2
+chrome71.0.3553.1 2 2
+chrome74.0.3701.1 2 2
+chrome75.0.3749.3 2 2
+chrome71.0.3543.1 2 2
+chrome75.0.3751.0 2 2
+chrome72.0.3580.1 2 2
+chrome73.0.3636.1 2 2
+chrome70.0.3532.1 2 2
+chrome74.0.3723.0 2 2
+chrome73.0.3655.0 2 2
+chrome73.0.3677.0 2 2
+chrome72.0.3626.51 2 2
+chrome69.0.3497.75 2 2
+chrome73.0.3676.0 2 2
+chrome71.0.3574.1 2 2
+chrome7.0.540.0 1 1
+chrome73.0.3651.1 2 2
+chrome70.0.3538.105 2 2
+firefox52.0 1 1
+chrome77.0.3865.116 35 3
+chrome5.0.375.99 5 5
+chrome75.0.3741.2 2 2
+chrome71.0.3578.22 2 2
+chrome74.0.3708.0 2 2
+chrome73.0.3683.39 2 2
+chrome73.0.3679.1 2 2
+edge15 1 1
+chrome72.0.3626.72 2 2
+chrome71.0.3550.3 4 4
+chrome74.0.3729.5 2 2
+chrome71.0.3578.106 2 2
+chrome72.0.3626.37 2 2
+chrome73.0.3648.2 2 2
+chrome74.0.3722.0 2 2
+chrome74.0.3714.2 2 2
+chrome72.0.3626.71 2 2
+chrome73.0.3683.65 2 2
+chrome73.0.3652.1 2 2
+chrome73.0.3657.1 2 2
+chrome74.0.3729.86 2 2
+chrome70.0.3528.3 2 2
+chrome73.0.3681.1 2 2
+chrome79.0.3945.88 1 1
+chrome73.0.3662.0 2 2
+chrome70.0.3538.35 2 2
+chrome71.0.3552.4 2 2
+chrome74.0.3717.1 4 4
+chrome78.0.3904.108 6 6
+chrome70.0.3514.2 2 2
+chrome74.0.3703.1 2 2
+chrome85.0.4183.127 45 4
+safari14.0 67 8
+chrome73.0.3683.86 1 1
+chrome68.0.3440.84 2 2
+chrome74.0.3729.123 2 2
+chrome70.0.3525.3 2 2
+chrome70.0.3515.2 4 4
+chrome70.0.3532.3 2 2
+chrome70.0.3534.0 2 2
+chrome72.0.3595.1 2 2
+msie11.0 82 82
+chrome71.0.3578.73 2 2
+chrome73.0.3683.54 2 2
+chrome74.0.3696.1 2 2
+chrome73.0.3683.96 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+python-requests/2.24.0 20201028110542
+python-requests/2.23.0 20201028080428
+COMODO_DCV 20201029214845
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20201018084218
+Sectigo_DCV 20201029214848
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+python-requests/2.24.0 20201028110542
+python-requests/2.23.0 20201028080428
+COMODO_DCV 20201029214845
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20201018084218
+Sectigo_DCV 20201029214848
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 552 574
+From1 5 5
+From2 4 5
+From3 11 11
+From4 57 850
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+bing 0 1
+www_google_com_bd 1 1
+www_google_com 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+https://l.facebook.com 4 4
+http://m.facebook.com 2 2
+https://brandnewblogs.com 2 2
+http://mjtpp.aimiot.net/blog/105547589/view/ 1 1
+https://m.facebook.com 1 1
+http://www.coralbruce.top/view/105547589/profile/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 159 187049
+206 136 50981041
+301 1 241
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 91
+/wp1/wp-includes/wlwmanifest.xml 2 -
+/shop/wp-includes/wlwmanifest.xml 2 -
+/website/wp-includes/wlwmanifest.xml 2 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/gtm.elementTarget 1 -
+/aw.ds 1 -
+/news/wp-includes/wlwmanifest.xml 2 -
+/bs.scrollspy 1 http://www.shomonnoibd.com/assets/js/core/bootstrap-material-design.min.js
+/sitemap.xml 2 -
+/ec.js 1 -
+/gtag.config 1 -
+/player 1 http://www.shomonnoibd.com/owlcarousel/owl.carousel.min.js
+/web/wp-includes/wlwmanifest.xml 2 -
+/gtm.elementClasses 1 -
+/3p.ds 1 -
+/ads.txt 1 -
+/sitemap_index.xml 2 -
+/img/arrow-right.cur 1 http://www.shomonnoibd.com/assets/css/material-kit.css
+/bs.popover 1 http://www.shomonnoibd.com/assets/js/core/bootstrap-material-design.min.js
+/update.tooltips 1 http://www.shomonnoibd.com/assets/js/plugins/nouislider.min.js
+/analytics.js 1 -
+/gtm.element 1 -
+/bs.tab 1 http://www.shomonnoibd.com/assets/js/core/bootstrap-material-design.min.js
+/adminer.php 1 -
+/staging/wp-includes/wlwmanifest.xml 1 -
+/gtag/js 1 -
+/site/wp-includes/wlwmanifest.xml 2 -
+/click.dismiss 1 http://www.shomonnoibd.com/assets/js/core/bootstrap-material-design.min.js
+/gtm.elementUrl 1 -
+/locale 1 http://www.shomonnoibd.com/locale/
+/wp2/wp-includes/wlwmanifest.xml 2 -
+//vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/bs.dropdown 1 http://www.shomonnoibd.com/assets/js/core/bootstrap-material-design.min.js
+/media/wp-includes/wlwmanifest.xml 2 -
+/dp.classify 1 http://www.shomonnoibd.com/assets/js/plugins/bootstrap-datetimepicker.js
+/bs.collapse 1 http://www.shomonnoibd.com/assets/js/core/bootstrap-material-design.min.js
+/gtm.allowlist 1 -
+/gtm.uniqueEventId 1 -
+/wp-admin/install.php 3 -
+/2018/wp-includes/wlwmanifest.xml 2 -
+/img/arrow-right.png 1 http://www.shomonnoibd.com/assets/css/material-kit.css
+/gtm.sync 1 -
+/mousedown.dismiss 1 http://www.shomonnoibd.com/assets/js/core/bootstrap-material-design.min.js
+/wp-includes/wlwmanifest.xml 2 -
+/HHmmss.SSSS 1 http://www.shomonnoibd.com/assets/js/plugins/moment.min.js
+/gtm.start 1 -
+/img/arrow-left.png 1 http://www.shomonnoibd.com/assets/css/material-kit.css
+/adminer-4.0.1.php 1 -
+/dp.error 1 http://www.shomonnoibd.com/assets/js/plugins/bootstrap-datetimepicker.js
+/dp.update 1 http://www.shomonnoibd.com/assets/js/plugins/bootstrap-datetimepicker.js
+/bs.modal 1 http://www.shomonnoibd.com/assets/js/core/bootstrap-material-design.min.js
+/img/apple-icon.png 42 http://www.shomonnoibd.com/
+/gtm.dom 1 -
+/mouseup.dismiss 1 http://www.shomonnoibd.com/assets/js/core/bootstrap-material-design.min.js
+/img/arrow-left.cur 1 http://www.shomonnoibd.com/assets/css/material-kit.css
+/2019/wp-includes/wlwmanifest.xml 2 -
+/gtm.load 1 -
+/pagead/conversion_async.js 1 -
+/dp.hide 1 http://www.shomonnoibd.com/assets/js/plugins/bootstrap-datetimepicker.js
+/owl.carousel 1 http://www.shomonnoibd.com/owlcarousel/owl.carousel.min.js
+/dp.change 1 http://www.shomonnoibd.com/assets/js/plugins/bootstrap-datetimepicker.js
+/sitemap.xml.gz 2 -
+/bs.alert 1 http://www.shomonnoibd.com/assets/js/core/bootstrap-material-design.min.js
+/cms/wp-includes/wlwmanifest.xml 2 -
+/hqdefault.jpg 1 http://www.shomonnoibd.com/owlcarousel/owl.carousel.min.js
+/xmlrpc.php 2 -
+/gtm.triggers 1 -
+/atom.xml 2 -
+/sito/wp-includes/wlwmanifest.xml 2 -
+/gtm.init 1 -
+/owlcarousel/owl.video.play.png 1 http://www.shomonnoibd.com/owlcarousel/owl.carousel.min.css
+/gtm.whitelist 1 -
+/wp-login.php 1 -
+/gtm.blocklist 1 -
+/bs.button 1 http://www.shomonnoibd.com/assets/js/core/bootstrap-material-design.min.js
+/MM/DD/YYYY 1 http://www.shomonnoibd.com/assets/js/plugins/moment.min.js
+/gtm.elementId 1 -
+/research/82 4 -
+/test/wp-includes/wlwmanifest.xml 2 -
+/wordpress/wp-includes/wlwmanifest.xml 2 -
+/bs.carousel 1 http://www.shomonnoibd.com/assets/js/core/bootstrap-material-design.min.js
+/blog/wp-includes/wlwmanifest.xml 2 -
+/popper.js 1 http://www.shomonnoibd.com/assets/js/core/bootstrap-material-design.min.js
+/dp.show 1 http://www.shomonnoibd.com/assets/js/plugins/bootstrap-datetimepicker.js
+/wp/wp-includes/wlwmanifest.xml 2 -
+/gtm.blacklist 1 -
+/gtm.js 1 -
+/optimize.callback 1 -
+/keydown.dismiss 1 http://www.shomonnoibd.com/assets/js/core/bootstrap-material-design.min.js
+//vendor/phpunit/phpunit/src/Util/PHP/kill.php 1 -
+/bs.tooltip 1 http://www.shomonnoibd.com/assets/js/core/bootstrap-material-design.min.js
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 7
+95.217.203.187 628 1437 1325083511 20201030020949
+64.246.178.34 1 1 7638 20201019221217
+66.249.82.208 0 1 974571 
+66.220.149.117 0 1 24 
+91.199.212.132 0 3 249 
+66.249.82.209 0 1 974571 
+173.252.107.11 0 1 24 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20201001 91 175 127320762 4
+20201002 170 203 55736308 11
+20201003 169 169 3974193 9
+20201004 3 3 112665 2
+20201006 8 63 3303663 4
+20201009 16 27 8731428 4
+20201010 3 23 2348375 2
+20201011 6 48 80171711 1
+20201012 2 2 7635 2
+20201013 5 5 225985 1
+20201014 3 34 44349672 2
+20201015 11 144 236386161 3
+20201018 7 30 2461251 2
+20201019 63 97 54568896 4
+20201020 32 107 149394749 4
+20201021 2 16 49495437 1
+20201022 10 89 123391542 1
+20201023 5 95 261670031 1
+20201024 4 5 399689 2
+20201025 1 1 7636 1
+20201026 10 47 44233377 3
+20201028 3 3 22908 2
+20201029 2 19 54147 2
+20201030 3 38 78672367 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 1
+5mn-15mn 9
+30mn-1h 8
+30s-2mn 8
+0s-30s 31
+2mn-5mn 10
+15mn-30mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 117
+/ 94 1798993 43 24
+/news 30 511770 2 7
+/organizations 20 636839 1 1
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff2 20 1586885 0 8
+/about 19 170347 0 7
+/emergency 12 456788 0 0
+/research 10 151204 1 1
+/research/83 6 101182 3 0
+/organizations/dhaka 6 56583 0 0
+/organizations/khulna 6 56586 0 0
+/organizations/barishal 6 56592 0 0
+/organizations/Dhaka 6 152684 1 0
+/organizations/rangpur 6 56589 0 0
+/organizations/rajshahi 6 56592 0 0
+/organizations/chattogram 6 56598 0 2
+/zakat 6 175823 0 1
+/research/84 5 51675 2 1
+/emergencies/medicine 5 209967 0 1
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.woff2 5 383225 0 1
+/news/92 4 213978 0 0
+/news/19 4 79414 0 0
+/news/91 4 187930 0 0
+/organizations/Nationwide 4 50912 1 0
+/news/17 4 161926 1 0
+/research/80 4 173750 1 0
+/news/31 4 105094 0 0
+/organizations/nationwide 2 18866 0 0
+/organizations/Khulna 3 44212 0 0
+/news/65 4 51162 0 0
+/news/10 2 41099 0 0
+/news/13 4 69422 0 2
+/emergencies/sanitizer 2 108236 0 0
+/news/64 4 74290 0 0
+/news/36 4 50932 0 0
+/news/38 4 169670 0 1
+/emergencies/cash 2 83870 0 0
+/research/32 4 112674 0 0
+/news/69 4 49936 0 0
+/news/72 4 73204 0 0
+//vendor/phpunit/phpunit/phpunit.xsd 1 2383 1 1
+/news/71 4 61610 0 0
+/research/58 4 399160 0 0
+/news/67 4 81022 0 0
+/research/88 4 140544 0 0
+/research/43 4 62902 0 0
+/organizations/Barishal 3 27091 0 0
+/news/76 4 59834 0 1
+/emergencies/ambulance 3 22928 0 1
+/organizations/Rangpur 3 38633 0 0
+/news/56 4 173968 0 1
+/research/11 4 61326 0 0
+/organizations/Mymensingh 3 27020 0 0
+/news/21 4 79604 0 0
+/news/48 4 110168 0 0
+/news/46 4 51970 0 0
+/news/86 4 52524 0 0
+/news/22 4 47366 0 0
+/news/14 4 147024 0 0
+/emergencies/ppe 3 94543 0 0
+/news/52 4 161778 0 0
+/news/63 4 117738 0 0
+/news/81 4 72754 1 0
+/research/89 4 146380 0 0
+/news/28 4 73082 0 0
+/news/26 4 114048 0 0
+/research/41 4 138588 1 1
+/news/15 4 81996 0 0
+/news/90 3 73312 0 0
+/research/77 4 477560 0 0
+/news/39 4 50558 0 0
+/news/74 4 63006 2 0
+/organizations/Sylhet 3 28243 0 0
+/news/75 4 83042 0 1
+/research/78 4 126086 0 0
+/news/37 4 76450 2 0
+/emergencies/spray 2 114751 1 0
+/organizations/Rajshahi 3 37320 0 0
+/news/24 4 106274 1 0
+/news/25 4 67734 0 0
+/news/18 4 107144 0 1
+/news/16 4 44232 0 0
+/organizations/mymensingh 2 18866 0 0
+/news/44 4 151744 0 0
+/research/90 2 61146 0 0
+/news/33 4 80600 0 0
+/research/51 4 470732 0 0
+/news/12 4 45004 0 0
+/news/30 4 172928 0 0
+/news/85 4 99810 0 0
+/news/45 4 54262 0 0
+/news/87 4 68772 0 0
+/news/47 4 121726 0 0
+/news/29 4 141336 0 0
+/research/55 4 147540 0 0
+/research/10 2 41011 0 0
+/news/59 4 51380 0 1
+/news/70 4 42878 0 0
+/news/73 4 101606 0 0
+/news/27 4 53632 2 0
+/organizations/Chattogram 3 59389 0 0
+/news/49 4 49182 0 0
+/news/40 4 63196 0 0
+/news/61 4 88918 0 0
+/news/53 4 116984 0 0
+/news/62 4 147814 1 0
+/news/50 4 74498 0 0
+/news/34 4 50098 0 2
+/emergencies/food 3 303333 0 1
+/news/79 4 51884 0 0
+/news/66 4 40236 1 0
+/news/68 4 84078 0 0
+/policy 4 55514 0 0
+/news/20 4 62988 0 0
+/organizations/sylhet 2 18862 0 0
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff 1 103323 0 1
+/emergencies/grave 2 18812 0 0
+/news/23 4 112600 0 0
+END_SIDER

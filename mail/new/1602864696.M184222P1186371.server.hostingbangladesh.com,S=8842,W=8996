@@ -1,0 +1,154 @@
+Return-Path: <servicdn@server3.hostlino.com>
+Delivered-To: shomonno@server.hostingbangladesh.com
+Received: from server.hostingbangladesh.com
+	by server.hostingbangladesh.com with LMTP
+	id OGBnCjjGiV9DGhIAroqP2A
+	(envelope-from <servicdn@server3.hostlino.com>)
+	for <shomonno@server.hostingbangladesh.com>; Fri, 16 Oct 2020 22:11:36 +0600
+Return-path: <servicdn@server3.hostlino.com>
+Envelope-to: info@shomonnoibd.com
+Delivery-date: Fri, 16 Oct 2020 22:11:36 +0600
+Received: from ip197.ip-51-83-170.eu ([51.83.170.197]:49064)
+	by server.hostingbangladesh.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <servicdn@server3.hostlino.com>)
+	id 1kTSKL-00513d-Tf
+	for info@shomonnoibd.com; Fri, 16 Oct 2020 22:11:36 +0600
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=servicedan.com; s=default; h=Date:Message-Id:Content-type:MIME-Version:From
+	:Subject:To:Sender:Reply-To:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=IuloPNqBGPcTpFgabY0NXKPIwsh8bEhkeBL17wtg6fY=; b=merLfrHp0fcvR1nYDGtgUlVKcR
+	J2SyNlkrMPY+xEuGThdzpdOXJ7WucSgTU+crs1fMgjK53We2sq7wJ6nLM5yq5EbS3szIwfdmSHPxi
+	stRu0VKJXAh9Vkgt3lhiY+RFNG49yj7CjdJMaM2PVAavdeDPmeP/GPe/nl1VP4Y8+ue/rZkSVQxCB
+	6IQR3YN4cOILV62tjVt88V/LychrzyiNALumlvSbmljEFlIQBdVGYnsTrJMqxmto/oHm0Ixiv7NIb
+	kmTXgaXGa54PpDfcUUkA8rbOypqjmq3UjZD+OrX5LUORtssVBiLFDN0mhKLIEF8Z6LSjQ/dKrOXB9
+	DPs/REyw==;
+Received: from servicdn by server3.hostlino.com with local (Exim 4.93)
+	(envelope-from <servicdn@server3.hostlino.com>)
+	id 1kTSGC-0003eY-3W
+	for info@shomonnoibd.com; Fri, 16 Oct 2020 19:37:16 +0330
+To: info@shomonnoibd.com
+Subject: =?UTF-8?B?W1BheVBhbF0gOiBBY3Rpb24gUmVxdWlyZWQgLSBJRDpbNTc4NjU5Njc1NDkwXQ==?=
+X-PHP-Script: servicedan.com/asba.php for 40.76.87.250
+X-PHP-Originating-Script: 1012:asba.php
+From: =?UTF-8?B?Q3VzdG9tZXIgU2VydmljZQ==?= <support@servicedan.com>
+MIME-Version: 1.0;
+Content-type: multipart/mixed; boundary="--ezc5tRkBuX"
+Message-Id: <E1kTSGC-0003eY-3W@server3.hostlino.com>
+Date: Fri, 16 Oct 2020 19:37:16 +0330
+X-YourOrg-MailScanner-Information: Please contact the ISP for more information
+X-YourOrg-MailScanner-ID: 1kTSGC-0003eY-3W
+X-YourOrg-MailScanner: Found to be clean
+X-YourOrg-MailScanner-SpamCheck: 
+X-YourOrg-MailScanner-From: servicdn@server3.hostlino.com
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server3.hostlino.com
+X-AntiAbuse: Original Domain - shomonnoibd.com
+X-AntiAbuse: Originator/Caller UID/GID - [1012 992] / [47 12]
+X-AntiAbuse: Sender Address Domain - server3.hostlino.com
+X-Get-Message-Sender-Via: server3.hostlino.com: authenticated_id: servicdn/from_h
+X-Authenticated-Sender: server3.hostlino.com: support@servicedan.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Spam-Status: No, score=0.2
+X-Spam-Score: 2
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "server.hostingbangladesh.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+    ‌ ‌ ‌ Dear client : For security reasons, you may need to update some
+    information in your account. Request to follow instructions: 
+ Content analysis details:   (0.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: servicedan.com]
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+  0.0 T_TVD_MIME_NO_HEADERS  BODY: No description available.
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  0.0 FROM_EXCESS_BASE64     From: base64 encoded unnecessarily
+X-Spam-Flag: NO
+
+----ezc5tRkBuX
+Content-type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<p>&nbsp;</p>
+<center style="width: 100%; background-color: #f4f4f4; padding: 0 20px 30px; box-sizing: border-box; -webkit-box-sizing: border-box;"><!-- [if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #f4f4f4;">
+<tr>
+<td>
+<![endif]--> <!-- Visually Hidden Preheader Text : BEGIN -->
+<div style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all; font-family: 'Source Sans Pro', sans-serif;">&nbsp;</div>
+<!-- Create white space after the desired preview text so email clients donâ€™t pull other distracting text into the inbox preview. Extend as necessary. --> <!-- Preview Text Spacing Hack : BEGIN -->
+<div style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all; font-family: 'Source Sans Pro', sans-serif;">‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌</div>
+<!-- Preview Text Spacing Hack : END --> <!-- Visually Hidden Preheader Text : END --> <!-- Email Body : BEGIN -->
+<table class="email-container" style="margin: 0px auto; height: 385px;" role="presentation" border="0" width="700" cellspacing="0" cellpadding="0"><!-- Email Header : BEGIN -->
+<tbody>
+<tr>
+<td style="padding: 30px 0px 10px; width: 696.4px;">&nbsp;</td>
+</tr>
+<!-- Email Header : END --> <!-- 1 Column Text + Button : BEGIN -->
+<tr style="height: 405px;">
+<td style="background-color: #ffffff; width: 696.4px; height: 405px;">
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 30px 40px; font-family: 'Source Sans Pro', sans-serif; font-size: 14px; line-height: 20px; color: #333132; width: 612.4px;">
+<p><span style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif;">Dear client :</span></p>
+<p>For security reasons, you may need to update some information in your account. Request to follow instructions:</p>
+<p>Please log in to your account and complete the steps to verify your identity.</p>
+<p>To protect your account, access will remain restricted until you complete the required steps.</p>
+<p>Click the link below to complete this process.</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px 40px 30px; width: 612.4px;"><!-- Button : BEGIN -->
+<table style="margin: 0 !important;" role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td id="button_text" class="button_style" style="font-family: Calibri, Trebuchet, Arial,sans-serif; font-weight: 300; font-stretch: normal; text-align: center; color: #ffffff; font-size: 1em; background: #107c9e; border-radius: 0px !important; -webkit-border-radius: 0px !important; -moz-border-radius: 0px !important; -o-border-radius: 0px !important; -ms-border-radius: 0px !important; line-height: 1.45em; padding: 7px 15px 8px; padding-bottom: 7px; margin: 0 auto 16px;" align="center" valign="middle"><span class="aloha-editable"><a style="text-decoration: none; color: #000000;" href="https://healthshoppingclub.com/commono" target="_BLANK" type="Link"><span style="color: #ffffff; font-family: Verdana, Arial, Helvetica, sans-serif;">Renew your account</span></a></span></td>
+</tr>
+</tbody>
+</table>
+<!-- Button : END --></td>
+</tr>
+<!-- Footer Text : BEGIN -->
+<tr>
+<td style="width: 692.4px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;We look forward to welcoming everyone! If you have any questions, please let us know.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- 1 Column Text + Button : END --> <!-- Clear Spacer : BEGIN --> <!-- <tr>
+<td aria-hidden="true" height="40" style="font-size: 0px; line-height: 0px;">
+ 
+</td>
+</tr> --> <!-- Clear Spacer : END --></tbody>
+</table>
+<!-- Email Body : END --> <!-- Email Footer : BEGIN --><!-- Email Footer : END --> <!-- [if mso | IE]>
+</td>
+</tr>
+</table>
+<![endif]--></center>
+----ezc5tRkBuX
+

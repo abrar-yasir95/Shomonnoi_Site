@@ -1,0 +1,113 @@
+Return-Path: <maxpo01@sina.com>
+Delivered-To: shomonno+spam@server.hostingbangladesh.com
+Received: from server.hostingbangladesh.com
+	by server.hostingbangladesh.com with LMTP
+	id oHqcJXWXEl/LATMAroqP2A
+	(envelope-from <maxpo01@sina.com>)
+	for <shomonno+spam@server.hostingbangladesh.com>; Sat, 18 Jul 2020 08:32:21 +0200
+Return-path: <maxpo01@sina.com>
+Envelope-to: info@shomonnoibd.com
+Delivery-date: Sat, 18 Jul 2020 08:32:21 +0200
+Received: from [116.199.50.59] (port=59246 helo=sina.com)
+	by server.hostingbangladesh.com with esmtp (Exim 4.93)
+	(envelope-from <maxpo01@sina.com>)
+	id 1jwgOL-00EDyx-JR
+	for info@shomonnoibd.com; Sat, 18 Jul 2020 08:32:21 +0200
+From: "Sport Shirts"<maxpo01@sina.com>
+To: info@shomonnoibd.com
+Date: 18 Jul 2020 14:29:30 +0800
+Message-ID: <20200718142925.81F256645A66CD24@sina.com>
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 8bit
+X-Antivirus: AVG (VPS 200717-4, 2020-07-17), Outbound message
+X-Antivirus-Status: Clean
+X-Spam-Status: Yes, score=36.9
+X-Spam-Score: 369
+X-Spam-Bar: ++++++++++++++++++++++++++++++++++++
+X-Spam-Report: Spam detection software, running on the system "server.hostingbangladesh.com",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Dear Sir / Madam, How are you? We would like to take this
+   opportunity to introduce our professional CAPS & HATS FACTORY. We can produce
+    caps and hats in different designs with different fabrics and logo applications
+    ( by screen pri [...] 
+ Content analysis details:   (36.9 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: avg.com]
+  1.7 DEAR_SOMETHING         BODY: Contains 'Dear (something)'
+  6.2 RCVD_IN_MSPIKE_L5      RBL: Very bad reputation (-5)
+                             [116.199.50.59 listed in bl.mailspike.net]
+  4.7 RCVD_IN_XBL            RBL: Received via a relay in Spamhaus XBL
+                             [116.199.50.59 listed in zen.spamhaus.org]
+  3.6 RCVD_IN_PBL            RBL: Received via a relay in Spamhaus PBL
+  1.3 RCVD_IN_RP_RNBL        RBL: Relay in RNBL,
+                             https://senderscore.org/blacklistlookup/
+                             [116.199.50.59 listed in bl.score.senderscore.com]
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider
+                             [maxpo01[at]sina.com]
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends
+                             in digit
+                             [maxpo01[at]sina.com]
+  4.0 SPF_FAIL               SPF: sender does not match SPF record (fail)
+ [SPF failed: Please see http://www.openspf.org/Why?s=mfrom;id=maxpo01%40sina.com;ip=116.199.50.59;r=server.hostingbangladesh.com]
+  0.0 RCVD_IN_MSPIKE_BL      Mailspike blacklisted
+  1.0 FROM_MISSP_SPF_FAIL    No description available.
+  2.0 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  1.0 FREEMAIL_REPLY         From and body contain different freemails
+  2.5 TO_NO_BRKTS_FROM_MSSP  Multiple header formatting problems
+  2.0 FROM_MISSPACED         From: missing whitespace
+  0.0 SPOOFED_FREEMAIL_NO_RDNS From SPOOFED_FREEMAIL and no rDNS
+  1.4 SPOOFED_FREEMAIL       No description available.
+  1.4 FROM_MISSP_EH_MATCH    From misspaced, matches envelope
+  3.8 FROM_MISSP_FREEMAIL    From misspaced + freemail provider
+X-Spam-Flag: YES
+Subject:  ***SPAM***  Sport Wear Quotation
+
+Dear Sir / Madam,
+
+How are you?
+
+We would like to take this opportunity to introduce our professional CAPS & 
+HATS FACTORY.
+We can produce caps and hats in different designs with different fabrics 
+and logo applications ( by screen printing / laminated transfer printing / 
+embroidery ).
+And our minimum order quantity can be as low as 10 PCS with your own custom 
+logo ( within 2 colours in screen printing ).
+
+Our hot items are sport caps and trucker caps :
+- CANVAS TWILL SPORT CAP : with 13 different available colours for your 
+selection.
+- TRUCKER CAP (WITH FRONT FOAM PANEL & BACK MESH) : with 17 different 
+available colours for your selection.
+
+Besides, we can also provide you our door-to-door courier delivery service 
+for your orders.
+We can offer you a special courier rate which is only 50% of the official 
+rate of DHL/UPS/FedEx.
+
+Thank you in advance for your kind attention and look foward to hearing 
+your further inquiry.
+
+Best regards,
+Ms. PingPing Huang / Ms. Shirley Mo
+Email: sport_shirts@vip.126.com /  toptex@vip.163.com
+
+HUA MIN Production Factory
+Hua Min Industrial Building, Rui Bao Er She Industrial Zone, Hai Zhu Qu,
+Guangzhou City, Guangdong Province, China Postal Code : 510288
+Tel: (86) 1. 80280 63405 Fax: (86) 20.8402 8410
+
+---
+This email has been checked for viruses by AVG.
+https://www.avg.com
+

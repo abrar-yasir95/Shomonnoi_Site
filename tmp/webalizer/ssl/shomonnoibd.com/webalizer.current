@@ -1,0 +1,547 @@
+# Webalizer V2.23-08 Incremental Data - 11/24/2020 10:42:30
+2020 11 24 10 42 30
+1060 971 32 103 24 40 943984805 234 151 0
+1 2 151 1 24
+18 18 665546 1 3 2
+117 114 156889733 2 7 3
+88 84 157584937 3 7 4
+50 46 508806 3 9 5
+21 19 639436 1 2 2
+5 5 122384 2 2 2
+123 116 84841996 3 16 4
+15 8 1309682 1 9 3
+13 9 1452965 5 4 4
+15 6 1563135 1 9 6
+90 60 4672513 3 41 15
+37 36 182550 2 19 19
+68 65 84496557 4 15 12
+48 48 97993496 1 8 8
+20 20 162075 3 6 5
+175 167 236702003 3 21 11
+7 7 91977 3 2 2
+40 39 45562865 2 14 12
+10 10 5952082 2 3 3
+19 19 61700479 2 5 3
+31 30 163629 4 13 12
+17 14 174150 1 2 2
+18 17 388811 3 8 5
+15 14 162998 1 9 7
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+16 15 278384 7
+68 67 79941153 10
+68 66 82201158 8
+138 113 85901069 34
+119 111 82698366 20
+184 175 255292865 22
+17 16 44646412 6
+19 17 5940530 3
+14 13 18688624 6
+15 14 2536603 5
+33 29 972169 10
+16 13 18903755 4
+26 25 19273872 5
+20 18 1673480 7
+13 11 20868294 6
+25 22 21864905 8
+14 11 1347394 7
+18 17 7409403 5
+29 26 8202941 6
+25 23 73480123 4
+67 64 78246981 11
+32 30 29196737 7
+46 40 3737878 14
+38 35 681709 19
+0
+0
+0
+971
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+30
+0
+0
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+46
+0
+0
+0
+0
+0
+# -urls- 
+/css/app.css
+0 17 7814716426037852777 234073 0 0
+/img/relief/natore/n1.png
+0 10 0 25412660 0 0
+/assets/js/core/jquery.min.js
+0 17 0 612833 0 0
+/organizations/Khulna
+0 1 0 5221 1 1
+/cPanel_magic_revision_1591646695/unprotected/cpanel/images/notice-info.png
+0 7 0 6832 0 0
+/img/organizations/L2.png
+0 12 0 6908196 0 0
+/news/87
+0 5 0 31187 3 4
+/policy
+0 2 0 11876 1 1
+/cPanel_magic_revision_1591646971/unprotected/cpanel/style_v2_optimized.css
+0 9 0 293193 0 0
+/cPanel_magic_revision_1591646695/unprotected/cpanel/images/webmail-logo.svg
+0 5 0 11995 0 0
+/blog/
+0 1 0 12255 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff
+0 9 0 200934 0 0
+/organizations/Chattogram
+0 3 0 16749 3 1
+/js/jquery.waterwheelCarousel.min.js
+0 12 0 32052 0 0
+/cPanel_magic_revision_1591646695/unprotected/cpanel/images/notice-success.png
+0 7 0 6734 0 0
+/organizations/Rangpur
+0 2 0 10349 2 1
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff2
+0 10 0 793495 0 0
+/admin.php
+0 1 0 12257 0 0
+/img/shomonnoi-logo.png
+0 14 0 16088352 0 0
+/cPanel_magic_revision_1591646695/unprotected/cpanel/images/icon-username.png
+0 8 0 2560 0 0
+/about
+0 3 0 13632 3 3
+/img/blog/blog_36.PNG
+0 1 0 51410 0 0
+/img/landing_map_filtered.jpg
+0 13 0 1914926 0 0
+/user/
+0 1 0 12257 0 0
+/img/relief/lakshmipur/l1.png
+0 11 0 31378776 0 0
+/owlcarousel/owl.carousel.min.css
+0 14 0 14952 0 0
+/js/zakat-calculator-script.js
+0 14 0 26446 0 0
+/img/blog/blog_39.PNG
+0 1 0 13967 0 0
+/img/relief/tangail/t1.png
+0 12 0 38661912 0 0
+/organizations/Dhaka
+0 3 0 23391 3 3
+/cPanel_magic_revision_1591646695/unprotected/cpanel/images/cp-logo.svg
+0 4 0 3600 0 0
+/admin/users/login_do/
+0 1 0 12264 0 0
+/img/relief/ghashforing/g1.png
+0 11 0 8285948 0 0
+/favicon.ico
+0 1 0 0 0 0
+/news/91
+0 1 0 15636 1 1
+/assets/demo/demo.css
+0 17 0 57103 0 0
+/emergencies/sanitizer
+0 2 0 15858 2 2
+/user/login/
+0 1 0 12256 0 0
+/emergencies/medicine
+0 1 0 7598 1 1
+/img/blog/blog_80.jpg
+0 5 0 126460 0 0
+/admin/
+0 2 0 24522 0 0
+/assets/js/material-kit.js
+0 15 0 36975 0 0
+/news/90
+0 1 0 12081 0 1
+/img/bg_shomonnoi_filtered.jpg
+0 10 0 6079050 0 0
+/organizations/Sylhet
+0 5 0 23547 4 4
+/emergencies/ppe
+0 4 0 29586 3 4
+/emergencies/spray
+0 1 24790544 8231 0 0
+/img/relief/panchagarh/p1.png
+0 11 0 17471795 0 0
+/research/88
+0 1 0 12957 1 1
+/assets/js/core/bootstrap-material-design.min.js
+0 14 0 283794 0 0
+/administrator/
+0 1 0 12256 0 0
+/css/style.css
+0 14 0 13874 0 0
+/assets/css/material-kit.css
+0 15 0 743445 0 0
+/img/blog/blog_89.jpg
+0 63 0 2414286 0 0
+/zakat
+0 3 0 24417 3 4
+/js/main.js
+0 12 0 15726 0 0
+/emergencies/food
+0 1 0 12192 1 1
+/organizations/Mymensingh
+0 5 0 23403 4 4
+/organizations/Rajshahi
+0 2 0 10138 2 2
+/wp-login.php
+0 1 0 12259 0 0
+/emergencies/grave
+0 1 0 4107 1 1
+/img/relief/bogura/b1.png
+0 11 0 162123115 0 0
+/img/blog/blog_43.png
+0 3 0 1020552 0 0
+/owlcarousel/owl.carousel.min.js
+0 12 0 136944 0 0
+/cPanel_magic_revision_1591646695/unprotected/cpanel/images/warning.png
+0 7 0 7420 0 0
+/assets/js/core/popper.min.js
+0 15 0 120885 0 0
+/assets/js/plugins/bootstrap-datetimepicker.js
+0 14 0 157192 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff
+0 9 0 203022 0 0
+/cPanel_magic_revision_1591646695/unprotected/cpanel/images/cpanel-logo.svg
+0 4 0 10528 0 0
+/emergency
+0 6 0 38087 6 6
+/img/organizations/M2.png
+0 12 0 5855832 0 0
+/img/blog/blog_13.jpg
+0 1 0 43286 0 0
+/img/blog/blog_23.jpg
+0 1 0 48468 0 0
+/img/tran_logo.png
+0 13 0 987454 0 0
+/img/relief/khagrachari/k1.png
+0 13 0 239759182 0 0
+/assets/js/plugins/moment.min.js
+0 17 0 376669 0 0
+/organizations/Nationwide
+0 2 0 11902 1 1
+/
+0 72 0 905748 62 59
+/img/amphan/amphan5_edit.jpg
+0 11 0 3193465 0 0
+/img/blog/blog_14.jpg
+0 1 0 37589 0 0
+/img/blog/blog_11.jpg
+0 1 0 63301 0 0
+/img/blog/blog_12.jpg
+0 1 0 11729 0 0
+/organizations/Barishal
+0 6 0 27644 6 6
+/emergencies/ambulance
+0 2 0 8215 2 2
+/cPanel_magic_revision_1591646695/unprotected/cpanel/images/icon-password.png
+0 8 0 3600 0 0
+/img/organizations/G8.png
+0 12 0 312256632 0 0
+/img/organizations/DC-4.png
+0 11 0 17243369 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff
+0 9 0 205353 0 0
+/img/relief/brahmanbaria/brah1.png
+0 10 0 22879930 0 0
+/blog/wp-login.php
+0 1 7812669453315830384 12262 0 0
+/cPanel_magic_revision_1591646695/unprotected/cpanel/images/notice-error.png
+0 8 0 8208 0 0
+/emergencies/cash
+0 2 3904118641409537330 14425 2 2
+/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css
+0 9 3531103582835179520 4824 0 0
+/robots.txt
+0 165 8387231026882241126 3960 0 0
+/research/89
+0 1 7362674523993436260 13142 1 0
+/assets/js/plugins/nouislider.min.js
+0 16 8099442454849126400 148338 0 0
+/news
+0 3 8314320210659258413 18096 2 3
+/manager/
+0 1 0 12262 0 1
+/research
+0 3 0 18598 3 2
+/owlcarousel/owl.theme.default.min.css
+0 17 0 8143 0 0
+/news/92
+0 3 0 51087 3 3
+/img/shomonnoi-logo-opacity50.png
+0 9 0 9295029 0 0
+/organizations
+0 3 0 19102 2 2
+# End Of Table - urls
+# -sites- (monthly)
+fwdproxy-prn-007.fbsv.net
+0 1 1 38322 0 0
+-
+fwdproxy-prn-043.fbsv.net
+0 1 1 38322 0 0
+-
+fwdproxy-prn-021.fbsv.net
+0 1 1 340184 0 0
+-
+fwdproxy-ash-021.fbsv.net
+0 1 1 38322 0 0
+-
+fwdproxy-frc-021.fbsv.net
+0 1 1 38322 0 0
+-
+fwdproxy-odn-009.fbsv.net
+0 1 1 25292 0 0
+-
+fwdproxy-atn-020.fbsv.net
+0 1 1 25292 0 0
+-
+fwdproxy-cln-003.fbsv.net
+0 1 1 38322 0 0
+-
+fwdproxy-atn-111.fbsv.net
+0 1 1 7630 1 1605716581
+/
+fwdproxy-vll-018.fbsv.net
+0 1 1 7630 1 1605487434
+/
+fwdproxy-atn-024.fbsv.net
+0 1 1 38322 0 0
+-
+server.hostingbangladesh.com
+0 1028 944 942398655 146 1606214550
+/
+fwdproxy-atn-007.fbsv.net
+0 1 1 38322 0 0
+-
+fwdproxy-pnb-120.fbsv.net
+0 1 1 25292 0 0
+-
+fwdproxy-atn-019.fbsv.net
+0 1 1 38322 0 0
+-
+fwdproxy-prn-117.fbsv.net
+0 1 1 38322 0 0
+-
+fwdproxy-pnb-023.fbsv.net
+0 1 1 340184 0 0
+-
+fwdproxy-atn-026.fbsv.net
+0 1 1 7630 1 1605568068
+/
+fwdproxy-prn-024.fbsv.net
+0 1 1 38322 0 0
+-
+fwdproxy-cln-008.fbsv.net
+0 1 1 38322 0 0
+-
+fwdproxy-prn-119.fbsv.net
+0 1 1 38322 0 0
+-
+fwdproxy-atn-001.fbsv.net
+0 1 1 7630 1 1605290521
+/
+fwdproxy-ash-017.fbsv.net
+0 1 1 38322 0 0
+-
+fwdproxy-odn-113.fbsv.net
+0 1 1 38322 0 0
+-
+fwdproxy-frc-016.fbsv.net
+0 1 1 38322 0 0
+-
+fwdproxy-pnb-116.fbsv.net
+0 1 1 7630 1 1605198938
+/
+fwdproxy-prn-004.fbsv.net
+0 1 1 38322 0 0
+-
+fwdproxy-ash-018.fbsv.net
+0 1 1 38322 0 0
+-
+ip-54-36-148-69.a.ahrefs.com
+0 1 1 24 0 0
+-
+fwdproxy-prn-022.fbsv.net
+0 2 2 63614 0 0
+-
+fwdproxy-frc-011.fbsv.net
+0 1 1 38322 0 0
+-
+fwdproxy-atn-006.fbsv.net
+0 1 1 38322 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+server.hostingbangladesh.com
+0 15 14 162998 7 1606214550
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://shomonnoibd.com/organizations/Sylhet
+0 1
+http://www.shomonnoibd.com/zakat
+0 3
+https://cpanel.shomonnoibd.com/cPanel_magic_revision_1591646971/unprotected/cpanel/style_v2_optimized.css
+0 25
+https://mail.shomonnoibd.com/
+0 94
+https://cpanel.shomonnoibd.com/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css
+0 12
+https://shomonnoibd.com/css/app.css
+0 3
+https://shomonnoibd.com/
+0 165
+http://shomonnoibd.com/
+0 17
+http://www.shomonnoibd.com/news
+0 6
+http://baidu.com/
+0 51
+- (Direct Request)
+0 459
+http://www.shomonnoibd.com/research
+0 3
+https://webmail.shomonnoibd.com/cPanel_magic_revision_1591646971/unprotected/cpanel/style_v2_optimized.css
+0 24
+http://shomonnoibd.com/organizations
+0 2
+https://mail.shomonnoibd.com/css/app.css
+0 3
+http://www.shomonnoibd.com/
+0 12
+http://mail.shomonnoibd.com/
+0 1
+http://shomonnoibd.com
+0 2
+https://www.shomonnoibd.com/css/app.css
+0 3
+https://cpanel.shomonnoibd.com/
+0 12
+http://shomonnoibd.com/news/73
+0 1
+https://webmail.shomonnoibd.com/
+0 15
+https://www.shomonnoibd.com/
+0 131
+https://webmail.shomonnoibd.com/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css
+0 15
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/80.0.3987.132 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 5
+Mozilla/5.0 (Linux; Android 10; SM-A715F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 3
+Mozilla/5.0 (Linux; U; Android 8.1.0; zh-CN; EML-AL00 Build/HUAWEIEML-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.
+0 460
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+0 4
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.140 Mobile 
+0 64
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3679.0 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 14
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 91
+Mozilla/5.0 (Linux; Android 8.1.0; SM-A260G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 9; ASUS_X01BDA Build/PKQ1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.428
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 10 Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36
+0 1
+Googlebot-Image/1.0
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 9; CPH1937) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 10; RMX2030 Build/QKQ1.200209.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.96 Mobile S
+0 13
+Mozilla/5.0 (compatible; archive.org_bot; Archive-It; +http://archive-it.org/files/site-owners.html)
+0 12
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 30
+Google Chrome 51.0.2704.103 on Windows 10
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 34
+Mozilla/5.0 (compatible; SeznamBot/3.2; +http://napoveda.seznam.cz/en/seznambot-intro/)
+0 231
+Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.12
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:52.9) Gecko/20100101 Goanna/3.4 Firefox/52.9 PaleMoon/27.9.0
+0 2
+Mozilla/5.0 (Linux; Android 8.1.0; SM-G615F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.185 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3694.0 Mobile Saf
+0 40
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/85.0.41
+0 4
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Mobile Saf
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

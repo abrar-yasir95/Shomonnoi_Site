@@ -1,0 +1,306 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202010 will be lost/reset.
+# Last config file used to build this data file was /home/shomonno/tmp/awstats/ssl/awstats.shomonnoibd.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2690                
+POS_VISITOR 7200                
+POS_DAY 7317                
+POS_DOMAIN 3367                
+POS_LOGIN 3596                
+POS_ROBOT 3751                
+POS_WORMS 4347                
+POS_EMAILSENDER 4478                
+POS_EMAILRECEIVER 4621                
+POS_SESSION 7734                
+POS_SIDER 7890                
+POS_FILETYPES 4756                
+POS_DOWNLOADS 4949                
+POS_OS 4997                
+POS_BROWSER 5158                
+POS_SCREENSIZE 5556                
+POS_UNKNOWNREFERER 5630                
+POS_UNKNOWNREFERERBROWSER 5802                
+POS_ORIGIN 5884                
+POS_SEREFERRALS 6017                
+POS_PAGEREFS 6180                
+POS_SEARCHWORDS 6380                
+POS_KEYWORDS 6532                
+POS_MISC 2354                
+POS_ERRORS 6591                
+POS_CLUSTER 3452                
+POS_SIDER_404 6700                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201101030910 5 642 10012133333381
+FirstTime 20201001032939
+LastTime 20201029033639
+LastUpdate 20201101183448 5 0 4 0 0
+TotalVisits 10                  
+TotalUnique 1                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 1                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 4 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 3 114966 2 7 97157
+1 1 3 92690 4 14 115367
+2 0 1 38322 5 14 79340
+3 11 11 73941 3 6 13298
+4 1 3 122021 3 10 38925
+5 0 1 38322 4 16 49175
+6 2 2 12176 4 8 47224
+7 2 4 75921 2 4 13266
+8 0 0 0 1 3 7679
+9 0 1 38322 1 7 39665
+10 0 1 38322 2 11 118384
+11 0 1 38322 1 14 238167
+12 0 2 38322 1 9 18343
+13 0 0 0 0 9 152864
+14 0 1 38322 2 8 105829
+15 0 0 0 1 6 485486
+16 0 0 0 1 12 184741
+17 2 39 78741369 1 6 84233
+18 0 0 0 3 13 128758
+19 1 1 7631 2 13 230997
+20 0 1 38322 1 6 127263
+21 0 0 0 4 30 370372
+22 0 1 38322 5 21 615212
+23 3 4 159859 6 19 202421
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ua 23 80 79745472
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+Googlebot/ 94 693702 20201031045101 23
+bingbot/ 52 197031 20201031204546 30
+facebookexternalhit/ 33 1199476 20201031130646 0
+YandexBot/ 19 53699 20201031162905 12
+archive\.org_bot 13 711918 20201003111508 2
+bingpreview 10 590943 20201025225416 0
+AhrefsBot/ 4 96 20201031181921 4
+SeznamBot/ 4 15310 20201027224750 2
+YandexImages/ 3 80502 20201030183913 0
+SemrushBot/ 2 48 20201011061137 2
+no_user_agent 1 24 20201029033633 1
+Googlebot\-Image/ 1 0 20201021014238 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 6 69229 0 0
+woff2 1 79339 0 0
+html 13 303814 0 0
+png 15 77337334 0 0
+Unknown 9 55596 0 0
+jpg 21 1696996 0 0
+js 15 203164 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+win7 4 0
+ios_iphone 1 0
+macosx 9 9
+linuxandroid 3 0
+win10 48 2
+win8.1 1 0
+linux 9 7
+Unknown 5 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 17
+chrome85.0.4183.83 3 1
+firefox82.0 1 0
+chrome73.0.3683.86 9 9
+chrome85.0.4183.121 41 2
+chrome76.0.3809.71 3 0
+firefox72.0 3 3
+chrome86.0.4240.99 1 0
+chrome77.0.3865.116 1 0
+chrome85.0.4183.102 2 2
+chrome58.0.3029.110 1 1
+chrome86.0.4240.111 2 0
+mozilla 5 5
+firefox52.9 1 0
+chrome71.0.3578.141 1 0
+chrome78.0.3904.70 1 0
+safari14.0 1 0
+msie9.0 4 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20201008011219
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 18 22
+From1 0 0
+From2 3 3
+From3 1 1
+From4 1 54
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://fattahia.webflow.io/project/shomonnoibd 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+401 1 35
+206 1 7630
+404 24 13752
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 8
+/sitemap.xml.gz 2 -
+/sitemap_index.xml 2 -
+/.well-known/assetlinks.json 3 -
+/sitemap.xml 2 -
+/img/apple-icon.png 10 -
+/sitemaps.xml 2 -
+/atom.xml 2 -
+/js/jquery.waterwheelcarousel.min.js 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1
+95.217.203.187 23 80 79745472 20201029033639
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 17
+20201001 2 4 91905 1
+20201002 2 39 78741369 1
+20201005 1 1 7631 1
+20201006 1 1 38074 1
+20201007 3 3 121537 1
+20201008 1 1 45413 1
+20201009 0 1 38322 0
+20201011 0 1 38322 0
+20201014 0 1 0 0
+20201015 3 6 134773 2
+20201019 1 2 83699 1
+20201020 0 2 76644 0
+20201022 0 1 38322 0
+20201023 0 2 76644 0
+20201026 0 1 38322 0
+20201029 9 13 136173 1
+20201030 0 1 38322 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30mn-1h 1
+0s-30s 9
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 10
+/ 13 303814 10 7
+/about 2 9093 0 1
+/organizations 1 6389 0 0
+/emergency 1 6370 0 0
+/research 1 6201 0 0
+/news 1 6032 0 0
+/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff2 1 79339 0 1
+/policy 1 5943 0 0
+/emergencies/ppe 1 7429 0 1
+/zakat 1 8139 0 0
+END_SIDER

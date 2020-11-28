@@ -1,0 +1,168 @@
+Return-Path: <smarti2u@myfile001.uzmgroup.com.my>
+Delivered-To: shomonno+spam@server.hostingbangladesh.com
+Received: from server.hostingbangladesh.com
+	by server.hostingbangladesh.com with LMTP
+	id iJJRKuOgjF8k3wsAroqP2A
+	(envelope-from <smarti2u@myfile001.uzmgroup.com.my>)
+	for <shomonno+spam@server.hostingbangladesh.com>; Mon, 19 Oct 2020 02:09:07 +0600
+Return-path: <smarti2u@myfile001.uzmgroup.com.my>
+Envelope-to: info@shomonnoibd.com
+Delivery-date: Mon, 19 Oct 2020 02:09:07 +0600
+Received: from [103.8.24.114] (port=45702 helo=myfile001.uzmgroup.com.my)
+	by server.hostingbangladesh.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <smarti2u@myfile001.uzmgroup.com.my>)
+	id 1kUEzJ-003I3v-CF
+	for info@shomonnoibd.com; Mon, 19 Oct 2020 02:09:07 +0600
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=smarti2u.com; s=default; h=Date:Message-Id:Content-type:From:Subject:To:
+	Sender:Reply-To:Cc:MIME-Version:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=xcjdwQm96943iEdJIsyi9fboCcTBj4UCHsWDAaTJ7VE=; b=NdotM8HDx6xY9FJqpjKabs2ik7
+	EoqXWCHlDJij5Gnp4P4FVWosbDrpPCtQAx+7jgegx9uDoYzitIvLlua8z43dhsEoGhsp+Ogh9ZSnX
+	JKUfmPx+v2LfFrMiz490rYxh2qtqYXDsAyoHsJTpnJoP/B1YdYeqZ7AGTmf+AC2m9rKODemzy1foy
+	8GiOUVf6kCa+X5pUQA1cFP4kykLLuqoYHOqjfrfCjiwmVSkeLj7aCGI/HrR8UOOT5o1KB0JSVf5tR
+	yAFfTUMOtkxlALYhMqpAt7DVCLoea9vMqdHVnXYIYYVY+bpx24ysSGK8WgFatGNxx0U3P9s09xvOf
+	/coaLRQw==;
+Received: from smarti2u by myfile001.uzmgroup.com.my with local (Exim 4.93)
+	(envelope-from <smarti2u@myfile001.uzmgroup.com.my>)
+	id 1kUEyb-0006WW-7p
+	for info@shomonnoibd.com; Mon, 19 Oct 2020 04:08:21 +0800
+To: info@shomonnoibd.com
+X-PHP-Script: smarti2u.com/alexus.php for 40.76.87.250
+X-PHP-Originating-Script: 1008:alexus.php
+From: =?UTF-8?B?UGF5UGFs?= <support@smarti2u.com>
+Content-type: text/html; charset=utf-8
+Message-Id: <E1kUEyb-0006WW-7p@myfile001.uzmgroup.com.my>
+Date: Mon, 19 Oct 2020 04:08:21 +0800
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - myfile001.uzmgroup.com.my
+X-AntiAbuse: Original Domain - shomonnoibd.com
+X-AntiAbuse: Originator/Caller UID/GID - [1008 992] / [47 12]
+X-AntiAbuse: Sender Address Domain - myfile001.uzmgroup.com.my
+X-Get-Message-Sender-Via: myfile001.uzmgroup.com.my: authenticated_id: smarti2u/from_h
+X-Authenticated-Sender: myfile001.uzmgroup.com.my: support@smarti2u.com
+X-Source: 
+X-Source-Args: php-fpm: pool smarti2u_com                               
+X-Source-Dir: smarti2u.com:/public_html
+X-Spam-Status: Yes, score=5.1
+X-Spam-Score: 51
+X-Spam-Bar: +++++
+X-Spam-Report: Spam detection software, running on the system "server.hostingbangladesh.com",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+    ‌ ‌ ‌ Dear Client : Your account needs to update some information for
+    security reasons, our request to follow the instructions: 
+ Content analysis details:   (5.1 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: smarti2u.com]
+  0.1 TVD_PH_SEC             BODY: Message includes a phrase commonly used in
+                             phishing mails
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+  2.0 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required
+                             MIME headers
+  0.6 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML
+                             tag
+  0.0 FROM_EXCESS_BASE64     From: base64 encoded unnecessarily
+  0.0 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+X-Spam-Flag: YES
+Subject:  ***SPAM***  Action Required - ID:[546558365960]
+
+<p>&nbsp;</p>
+<center style="width: 100%; background-color: #f4f4f4; padding: 0 20px 30px; box-sizing: border-box; -webkit-box-sizing: border-box;"><!-- [if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #f4f4f4;">
+<tr>
+<td>
+<![endif]--> <!-- Visually Hidden Preheader Text : BEGIN -->
+<div style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all; font-family: 'Source Sans Pro', sans-serif;">&nbsp;</div>
+<!-- Create white space after the desired preview text so email clients donâ€™t pull other distracting text into the inbox preview. Extend as necessary. --> <!-- Preview Text Spacing Hack : BEGIN -->
+<div style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all; font-family: 'Source Sans Pro', sans-serif;">‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌</div>
+<!-- Preview Text Spacing Hack : END --> <!-- Visually Hidden Preheader Text : END --> <!-- Email Body : BEGIN -->
+<table class="email-container" style="margin: 0 auto;" role="presentation" border="0" width="600" cellspacing="0" cellpadding="0"><!-- Email Header : BEGIN -->
+<tbody>
+<tr>
+<td style="padding: 30px 0 10px;">&nbsp;</td>
+</tr>
+<!-- Email Header : END --> <!-- 1 Column Text + Button : BEGIN -->
+<tr>
+<td style="background-color: #ffffff;">
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 30px 40px; font-family: 'Source Sans Pro', sans-serif; font-size: 14px; line-height: 20px; color: #333132;">
+<p>Dear Client :</p>
+<p>Your account needs to update some information for security reasons, our request to follow the instructions:</p>
+<p>Please log in to your account and complete the steps to confirm your identity.</p>
+<p>To help protect your account, access will remain limited until you complete the necessary steps.</p>
+<p>Click on the link below to complete this process.</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 0 40px 30px;"><!-- Button : BEGIN -->
+<table style="margin: 0 !important;" role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="button-td button-td-primary" style="border-radius: 4px; background: #222222;"><a class="button-a button-a-primary" style="font-family: 'Source Sans Pro', sans-serif; font-size: 12px; text-decoration: none; color: #ffffff; display: block; background-color: #107c9e; line-height: 1; padding: .75rem 1rem .75rem 1rem;" href="https://rumodabeleza.com/common"> Confirm my account </a></td>
+</tr>
+</tbody>
+</table>
+<!-- Button : END --></td>
+</tr>
+<!-- Footer Text : BEGIN -->
+<tr>
+<td>
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0 40px; font-family: 'Source Sans Pro', sans-serif; font-size: 14px; line-height: 20px; color: #333132;">
+<p style="margin: 0;">We're happy to have you on board! Please let us know if we can answer any questions.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- Footer Text : END --></tbody>
+</table>
+</td>
+</tr>
+<!-- 1 Column Text + Button : END --> <!-- Clear Spacer : BEGIN --> <!-- <tr>
+<td aria-hidden="true" height="40" style="font-size: 0px; line-height: 0px;">
+ 
+</td>
+</tr> --> <!-- Clear Spacer : END --></tbody>
+</table>
+<!-- Email Body : END --> <!-- Email Footer : BEGIN -->
+<table class="email-container" style="margin: 0 auto;" role="presentation" border="0" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="background-color: #ffffff; padding: 20px 40px 40px; font-family: 'Source Sans Pro', sans-serif; font-size: 12px; line-height: 15px; color: #333132;"><!-- <webversion style="color: #cccccc; text-decoration: underline; font-weight: bold;">View as a Web Page</webversion> --> <!-- <br><br> --><hr style="border: 0; border-top: 1px solid #f4f4f4; height: 0; background: transparent; margin-bottom: 20px;"><a style="color: #107c9e; text-decoration: underline; margin-right: 20px;" href="mailto:support@linode.com">Contact Us</a> <!-- <br><br> --> <!-- <unsubscribe style="color: #888888; text-decoration: underline;">unsubscribe</unsubscribe> --></td>
+</tr>
+</tbody>
+</table>
+<!-- Email Footer : END --> <!-- [if mso | IE]>
+</td>
+</tr>
+</table>
+<![endif]--></center>
